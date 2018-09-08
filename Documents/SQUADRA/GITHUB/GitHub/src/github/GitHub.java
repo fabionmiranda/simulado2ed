@@ -16,6 +16,7 @@ public class GitHub {
      */
     public static void main(String[] args) {
         System.out.println(" primeiro projeto github");
+        System.out.println(" mexi 2 vez");
     }
     
 }
